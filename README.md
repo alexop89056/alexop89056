@@ -1,5 +1,5 @@
 ### Hi, my name is Alex. 
-I am a responsible, competent <i class='mark_text'>Python</i> BackEnd Developer 2x years of experience. I am 19 years old. I was born and currently live in Baku. I am a 2nd year student at the West Caspian University for the profession of Computer Engineering. My knowledge doesn't end at BackEnd, I can work with html, css, js, bootstrap, jquery, some javascript scripts (chart.js , carousel). I write the backend in the Python Flask framework and I use local file database like sqlite or MySql database in my projects.
+I am a responsible, competent <i class='mark_text'>Python</i> BackEnd Developer with 2x years of experience. I am 19 years old. I was born and currently live in Baku. I am a 2nd year student at the West Caspian University for the profession of Computer Engineering. My knowledge doesn't end at BackEnd, I can work with html, css, js, bootstrap, jquery, some javascript scripts (chart.js , carousel). I write the backend in the Python Flask framework and I use local file database like sqlite or MySql database in my projects.
 From my BackEnd projects I have projects like:
 
 * **ArmWresting website.** On this site, people can leave their applications for an arm wrestling tournament, after which this application is confirmed via mail, sent for consideration and later accepted by the admin and placed in different leagues.
