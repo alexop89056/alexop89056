@@ -1,17 +1,27 @@
-### Hi, my name is Alex. 
-I am a responsible, competent <i class='mark_text'>Python</i> BackEnd Developer with 2x years of experience. I am 19 years old. I was born and currently live in Baku. I am a 2nd year student at the West Caspian University for the profession of Computer Engineering. My knowledge doesn't end at BackEnd, I can work with html, css, js, bootstrap, jquery, some javascript scripts (chart.js , carousel). I write the backend in the Python Flask framework and I use local file database like sqlite or MySql database in my projects.
-From my BackEnd projects I have projects like:
+# Crafting Digital Dreams
 
-* **ArmWresting website.** On this site, people can leave their applications for an arm wrestling tournament, after which this application is confirmed via mail, sent for consideration and later accepted by the admin and placed in different leagues.
+## Briefly About Me. 
+I am a responsible, competent <code>Python BackEnd Developer</code> with 3x years of experience. I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
 
-* **Rent a car website.** On this site, the user can rent a car from the list offered to him with pagination, after which he can rent it, the application is sent to the administrator, who in turn can contact the database of cars by their availability by numbers, there are many elements of task scheduling in this system.
-
-* **Website for advertising welding services.** On this website, the client can ask a question, leave a request for a particular service in the welding field
-
-* **Website for convenient price parsing from local online stores.** This site is a regular panel where the user can conveniently parse prices from the local online store site by category, by individual product. There are also many planned functions in this system
-
-* **Notes Website.** A regular website for taking notes, where note changes are implemented using the Api
- 
-* **Pet project** with a personal account. In this project, we studied how to create personal accounts of users with their settings
-
-### Since the structure of these projects has changed every time due to the acquisition of new knowledge, experience, the source code of these projects is currently being uploaded to GitHub
+## My Technology stack
+![python](https://img.shields.io/badge/python-367AB2?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-E8D54C?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+![django](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
+![flask](https://img.shields.io/badge/flask-darkgreen?style=for-the-badge&logo=flask&logoColor=white&color=grey)
+![fastapi](https://img.shields.io/badge/fastapi-darkgreen?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
+![celery](https://img.shields.io/badge/celery-darkgreen?style=for-the-badge&logo=celery&logoColor=white&color=91b254)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-darkgreen?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=c51d0a)
+![docker](https://img.shields.io/badge/docker-darkgreen?style=for-the-badge&logo=docker&logoColor=white&color=0997E5)
+![nginx](https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white&color=0E9246)
+![ubuntu](https://img.shields.io/badge/ubuntu-darkgreen?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
+![kalilinux](https://img.shields.io/badge/kalilinux-darkgreen?style=for-the-badge&logo=kalilinux&logoColor=white&color=2872AA)
+![kubernetes](https://img.shields.io/badge/kubernetes-darkgreen?style=for-the-badge&logo=kubernetes&logoColor=white&color=2e72dd)
+![gunicorn](https://img.shields.io/badge/gunicorn-darkgreen?style=for-the-badge&logo=gunicorn&logoColor=white&color=479346)
+![css](https://img.shields.io/badge/css-darkgreen?style=for-the-badge&logo=css3&logoColor=white&color=254BDD)
+![html](https://img.shields.io/badge/html5-darkgreen?style=for-the-badge&logo=html5&logoColor=white&color=DE4A24)
+![jquery](https://img.shields.io/badge/jquery-darkgreen?style=for-the-badge&logo=jquery&logoColor=white&color=0865A6)
+![postgresql](https://img.shields.io/badge/postgresql-darkgreen?style=for-the-badge&logo=postgresql&logoColor=white&color=30658F)
+![mysql](https://img.shields.io/badge/mysql-darkgreen?style=for-the-badge&logo=mysql&logoColor=white&color=005d85)
+![git](https://img.shields.io/badge/git-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=e94f31)
+![github](https://img.shields.io/badge/github-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=black)
+![bootstrap](https://img.shields.io/badge/bootstrap-darkgreen?style=for-the-badge&logo=qlalchemy&logoColor=white&color=533979)
