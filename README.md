@@ -33,3 +33,9 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with 3x year
 | [**University Api System**](https://github.com/alexop89056/university-api-system.git) | This project serves as a template for the Api of the system customized for the university.|
 | [**Custom Form Validator**](https://github.com/alexop89056/custom-form-validator.git) | This Python project provide custom form validation by templates from database|
 | [**Django Stripe App**](https://github.com/alexop89056/django-stripe-docker.git)      | This project is a basic template based on Django Docker services to provide connection between stripe payment system and django. |
+
+
+## My contacts
+- **Email**: ``alex.prokofyev.04@gmail.com``
+- **LinkedIn**: [**LinkedIn**](https://www.linkedin.com/in/aleksey-prokofyev-127775216/)
+- **Kwork**: [**Kwork**](https://kwork.ru/user/alexop890561)
