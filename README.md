@@ -1,4 +1,6 @@
-# Crafting Digital Dreams
+<h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗔𝗹𝗲𝘅
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python Backend Developer, Computer Engineering Student</h3>
 
 ## Briefly About Me. 
 I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3x years of experience.</code> I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
@@ -33,7 +35,6 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 | [**University Api System**](https://github.com/alexop89056/university-api-system.git) | This project serves as a template for the Api of the system customized for the university.|
 | [**Custom Form Validator**](https://github.com/alexop89056/custom-form-validator.git) | This Python project provide custom form validation by templates from database|
 | [**Django Stripe App**](https://github.com/alexop89056/django-stripe-docker.git)      | This project is a basic template based on Django Docker services to provide connection between stripe payment system and django. |
-
 
 ## My contacts
 - **Email**: ``alex.prokofyev.04@gmail.com``
