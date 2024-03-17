@@ -36,6 +36,9 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 | [**Custom Form Validator**](https://github.com/alexop89056/custom-form-validator.git) | This Python project provide custom form validation by templates from database|
 | [**Django Stripe App**](https://github.com/alexop89056/django-stripe-docker.git)      | This project is a basic template based on Django Docker services to provide connection between stripe payment system and django. |
 
+## My stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/alexop89056?theme=nord&font=Source%20Sans%20Pro&ext=activity)](https://leetcode.com/alexop89056/)
+
 ## My contacts
 - **Email**: ``alex.prokofyev.04@gmail.com``
 - **LinkedIn**: [**LinkedIn**](https://www.linkedin.com/in/aleksey-prokofyev-127775216/)
