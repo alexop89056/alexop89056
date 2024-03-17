@@ -32,7 +32,8 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 ## My Best Projects
 | Name of Project                                                                       | Project Description     |
 |---------------------------------------------------------------------------------------|-------------------------|
-| [**University Api System**](https://github.com/alexop89056/university-api-system.git) | This project serves as a template for the Api of the system customized for the university.|
+| [**FastAPI Celery**](https://github.com/alexop89056/fastapi-celery.git) | The application includes a loigku to get ip address from external api and save it to database.|
+| [**University API System**](https://github.com/alexop89056/university-api-system.git) | This project serves as a template for the Api of the system customized for the university.|
 | [**Custom Form Validator**](https://github.com/alexop89056/custom-form-validator.git) | This Python project provide custom form validation by templates from database|
 | [**Django Stripe App**](https://github.com/alexop89056/django-stripe-docker.git)      | This project is a basic template based on Django Docker services to provide connection between stripe payment system and django. |
 
