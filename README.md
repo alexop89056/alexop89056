@@ -40,7 +40,7 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 ## Statistics
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alexop89056?theme=nord&font=Source%20Sans%20Pro&ext=activity)](https://leetcode.com/alexop89056/)
 
-## Contact
+## Contacts
 
 For inquiries or further information, please use the following contact details:
 
