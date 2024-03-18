@@ -5,7 +5,7 @@
 ## Briefly About Me. 
 I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3x years of experience.</code> I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
 
-## My Technology stack
+## Technology stack
 ![python](https://img.shields.io/badge/python-367AB2?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-E8D54C?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 ![django](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
@@ -29,7 +29,7 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 ![git](https://img.shields.io/badge/git-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=e94f31)
 ![github](https://img.shields.io/badge/github-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=black)
 
-## My Best Projects
+## Best Projects
 | Name of Project                                                                       | Project Description     |
 |---------------------------------------------------------------------------------------|-------------------------|
 | [**FastAPI Celery**](https://github.com/alexop89056/fastapi-celery.git) | The application includes a logic to get ip address from external api and save it to database.|
@@ -37,10 +37,14 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 | [**Custom Form Validator**](https://github.com/alexop89056/custom-form-validator.git) | This Python project provide custom form validation by templates from database|
 | [**Django Stripe App**](https://github.com/alexop89056/django-stripe-docker.git)      | This project is a basic template based on Django Docker services to provide connection between stripe payment system and django. |
 
-## My Statistics
+## Statistics
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alexop89056?theme=nord&font=Source%20Sans%20Pro&ext=activity)](https://leetcode.com/alexop89056/)
 
-## My contacts
-- **Email**: ``alex.prokofyev.04@gmail.com``
-- **LinkedIn**: [**LinkedIn**](https://www.linkedin.com/in/aleksey-prokofyev-127775216/)
-- **Kwork**: [**Kwork**](https://kwork.ru/user/alexop890561)
+## Contact
+
+For inquiries or further information, please use the following contact details:
+
+- ✉️ **Email:** ``alex.prokofyev.04@gmail.com``
+- 💼 **LinkedIn:** [**Aleksey Prokofyev**](https://www.linkedin.com/in/aleksey-prokofyev-127775216)
+- 💼 **Kwork**: [**Kwork**](https://kwork.ru/user/alexop890561)
+- 🌐 **Website:** [**Portfolio**](https://alexop89056.github.io/me)
