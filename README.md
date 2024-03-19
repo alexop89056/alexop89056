@@ -2,10 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Backend Developer, Computer Engineering Student</h3>
 
-## Briefly About Me. 
+## Briefly About Me. 💬
 I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3x years of experience.</code> I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
 
-## Technology stack
+## Technology stack 💻
 ![python](https://img.shields.io/badge/python-367AB2?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-E8D54C?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 ![django](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
@@ -29,7 +29,7 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 ![git](https://img.shields.io/badge/git-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=e94f31)
 ![github](https://img.shields.io/badge/github-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=black)
 
-## Best Projects
+## Best Projects 🏆
 | Name of Project                                                                       | Project Description     |
 |---------------------------------------------------------------------------------------|-------------------------|
 | [**FastAPI Celery**](https://github.com/alexop89056/fastapi-celery.git) | The application includes a logic to get ip address from external api and save it to database.|
@@ -38,10 +38,10 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 | [**Custom Form Validator**](https://github.com/alexop89056/custom-form-validator.git) | This Python project provide custom form validation by templates from database|
 | [**Django Stripe App**](https://github.com/alexop89056/django-stripe-docker.git)      | This project is a basic template based on Django Docker services to provide connection between stripe payment system and django. |
 
-## Statistics
+## Statistics 📊
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alexop89056?theme=nord&font=Source%20Sans%20Pro&ext=activity)](https://leetcode.com/alexop89056/)
 
-## Contacts
+## Contacts 📞
 
 For inquiries or further information, please use the following contact details:
 
