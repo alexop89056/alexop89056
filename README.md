@@ -29,7 +29,7 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 ![git](https://img.shields.io/badge/git-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=e94f31)
 ![github](https://img.shields.io/badge/github-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=black)
 
-## Best Projects 🏆
+## Best OpenSource Projects 🏆
 | Name of Project                                                                       | Project Description     |
 |---------------------------------------------------------------------------------------|-------------------------|
 | [**FastAPI Celery**](https://github.com/alexop89056/fastapi-celery.git) | The application includes a logic to get ip address from external api and save it to database.|
