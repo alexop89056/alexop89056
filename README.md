@@ -28,6 +28,9 @@ I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3
 ![mongodb](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white&color=4da53f)
 ![git](https://img.shields.io/badge/git-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=e94f31)
 ![github](https://img.shields.io/badge/github-darkgreen?style=for-the-badge&logo=github&logoColor=white&color=black)
+![clickhouse](https://img.shields.io/badge/clickhouse-91b254?style=for-the-badge&logo=clickhouse&logoColor=#fccb05)
+![gitlab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoColor=#fccb05)
+![selenium](https://img.shields.io/badge/selenium-darkgreen?style=for-the-badge&logo=selenium&logoColor=#fccb05)
 
 ## Best OpenSource Projects 🏆
 | Name of Project                                                                       | Project Description     |
