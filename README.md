@@ -3,7 +3,7 @@
 <h3 align="center">Python Backend Developer, Computer Engineering Student</h3>
 
 ## Briefly About Me. 💬
-I am a responsible, competent <code>Python BackEnd Developer</code> with <code>3x years of experience.</code> I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
+I am a responsible, competent <code>Python BackEnd Developer</code> with <code>4x years of experience.</code> I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
 
 ## Technology stack 💻
 ![python](https://img.shields.io/badge/python-367AB2?style=for-the-badge&logo=python&logoColor=white)
