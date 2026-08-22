@@ -1,6 +1,6 @@
 <h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗔𝗹𝗲𝘅
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Backend Developer, Computer Engineering Student</h3>
+<h3 align="center">Software Engineer, Computer Engineering Student</h3>
 
 ## Briefly About Me. 💬
 I am a responsible, competent <code>Software Engineer</code> with <code>4x years of experience.</code> I have many different projects in my experience. The character trait that makes me <code>competitive</code> is my <code>perseverance</code> and <code>self-belief</code>
