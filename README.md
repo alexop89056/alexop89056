@@ -1,6 +1,6 @@
 <h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗔𝗹𝗲𝘅
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Engineer · Java & Python · Computer Engineering Student</h3>
+<h3 align="center">Software Engineer · Java & Python · Master’s Student in Computer Engineering</h3>
 
 ## Briefly About Me. 💬
 I am a Software Engineer focused on building reliable backend systems with <code>Java</code> and <code>Python</code>. I work with Spring Boot, REST APIs, databases, background processing, and Docker-based deployments. I also have experience building web applications with Django, Flask, and FastAPI.
@@ -14,16 +14,20 @@ My approach is practical and product-focused: write maintainable code, understan
 ![spring security](https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![python](https://img.shields.io/badge/python-367AB2?style=for-the-badge&logo=python&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Frontend**  
 ![react](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Data & Infrastructure**  
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![apache kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![clickhouse](https://img.shields.io/badge/clickhouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
