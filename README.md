@@ -35,6 +35,14 @@ My approach is practical and product-focused: write maintainable code, understan
 | [**RideFlow**](https://github.com/alexop89056/RideFlow) | Modern ride-hailing platform built with Spring Boot, Next.js, Flutter, PostgreSQL, Redis, Kafka, and Docker. |
 | [**Booking Platform**](https://github.com/alexop89056/booking-platform) | Production-minded booking platform with Spring Boot, PostgreSQL, Redis, JWT security, concurrency-safe reservations, and Next.js. |
 
+## Featured Project ⭐
+
+### [RideFlow](https://github.com/alexop89056/RideFlow)
+
+A modern ride-hailing platform built as a distributed full-stack system. RideFlow combines a Spring Boot backend with Next.js and Flutter clients, PostgreSQL and Redis for data, Kafka for event-driven communication, and Docker for deployment.
+
+The project focuses on real-world backend challenges such as service boundaries, asynchronous workflows, transactional data, and scalable architecture.
+
 ## What I Build 🚀
 
 - Reliable backend systems with Java, Spring Boot, and Python
